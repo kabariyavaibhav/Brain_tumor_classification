@@ -10,16 +10,10 @@
 - **pandas**
 - **matplotlib**
 - **scikit-learn**
-- **torch**
-- **torchvision**
+
 ## To RUN .ipynb
 - Open Brain Tumor Prediction.ipynb (Jupyter Notebook File) and run all the cells on Jupyter lab or notebook 
-## To RUN .py
-- Open cmd and goto the directory where all the files are saved
-- Run below command
-```
-python3 main.py
-```
+
 ## Results
 - You can find the results of code in the same directory named 'Results.csv' and 'Test Results.csv'
 - we got Test Accuracy as below
